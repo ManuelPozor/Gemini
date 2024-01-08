@@ -1,8 +1,8 @@
-# Gemini Plugin
+# Gemini Plugin (Fork)
 
 ![](images/gemini_image.png)
 
-The Gemini package is a framework for the creation of Digital Twins in Unity.
+The Gemini package is a framework for the creation of Digital Twins in Unity. The original project has been migrated. This is a copy of the migrated version from [Wekit ECS](https://github.com/WEKIT-ECS/GEMINI).
 
 It provides a built in custom editor window, which guides the user through the process of creating their own Digital Twin.
 Configuration of network protocols are made uncomplicated and basic support for MQTT is provided.
